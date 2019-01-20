@@ -1,5 +1,5 @@
 const clientId = '5360cac3dbb6475b8708940ae5f2f080';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'https://callumgrayson.github.io/jammming/';
 
 let accessToken;
 
